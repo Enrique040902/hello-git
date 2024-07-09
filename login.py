@@ -1,1 +1,1 @@
-print('Loing v2')
+print("Loing v2")
